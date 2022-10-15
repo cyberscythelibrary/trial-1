@@ -3,6 +3,7 @@ layout: post
 title:  "VISA Letter Generations"
 date:   2022-10-10 22:30:39 +0530
 categories: ideation forms
+mermaid: true
 ---
 
 # VISA Letter Generations
