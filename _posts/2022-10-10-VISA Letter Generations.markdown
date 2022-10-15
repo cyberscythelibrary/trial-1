@@ -170,18 +170,3 @@ UCM[UCM] --> DOR[DOR]
 DOR[DOR] --> BPM[Approval]
 linkStyle default fill: none, stroke: grey
 ```
-
-    @startmermaid
-    pie title Pets adopted by volunteers
-      "Dogs" : 386
-      "Cats" : 85
-      "Rats" : 35
-    @endmermaid
-    
-    {% mermaid %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% endmermaid %}
