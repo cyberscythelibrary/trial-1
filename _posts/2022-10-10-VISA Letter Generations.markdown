@@ -15,19 +15,8 @@ Depending on the country to visit the format and mandatory documents vary.
 The process aims to simplify the generation process by simplifying the genration process and formats from the user and make the journey more user friendly.
 Having a process also helps in adapting to the ever changing policies.
 
-```mermaid
-journey
-    title VISA Letter Generation Streamline
-    section Plan Trip
-      Fill Travel Details: 2: Employee
-      Approval and Verification: 3: Line Manager, Employee
-      Plan The Travel: 4: Travel Manager, Employee
-      Document Submission: 4: Travel Manager, Employee
-      VISA Stamping: 5: Employee
-		
-```
-
-
+    ![image tooltip here](./assets/UserJourney.svg)
+    
 ## Fusion System Components
 
 
