@@ -5,7 +5,7 @@ date:   2022-10-10 22:30:39 +0530
 categories: welcome
 ---
 
-# Welcome TO Outside Oracle
+# Welcome To Outside Oracle
 
 Forum to discuss with myself enhancements that are not delivered out of box from oracle but are usually used by an organization.
 These includes Report, Integrations, Conversion (data-load), Enhancements (personalizations), Forms (applications), Workflow (BPM).
