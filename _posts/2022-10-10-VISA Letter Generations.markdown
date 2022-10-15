@@ -159,3 +159,14 @@ journey
    </env:Body>
 </env:Envelope>
 ```
+
+
+```mermaid
+graph TD
+USR[User] --> PDF
+PDF[PDF] --> UCM[UCM]
+UCM[UCM] --> DOR[DOR]
+DOR[DOR] --> BPM[Approval]
+linkStyle default fill: none, stroke: grey
+```
+
