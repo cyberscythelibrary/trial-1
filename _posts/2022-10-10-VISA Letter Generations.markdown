@@ -15,7 +15,7 @@ Depending on the country to visit the format and mandatory documents vary.
 The process aims to simplify the generation process by simplifying the genration process and formats from the user and make the journey more user friendly.
 Having a process also helps in adapting to the ever changing policies.
 
-    ![image tooltip here](./assets/UserJourney.svg)
+    ![image tooltip here](/trial-1/docs/assets/UserJourney.svg)
     
 ## Fusion System Components
 
