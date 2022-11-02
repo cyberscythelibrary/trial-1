@@ -13,26 +13,31 @@ These are for discussion purpose only.
 
 ## Reports
 
-1. Outound Monitor Report
-2. Inbound Monitor Report
-3. Attendence Summary Report
-4. Employee Headcount Report
-5. 
+1. Outound Monitor Report.
+2. Inbound Monitor Report.
+3. Attendence Summary Report.
+4. Employee Headcount Report.
+5. Performance Summary Report.
+6. BPM Status Report.
 
 ## Integrations
 
-1. Auto Approve/Reject BPM Workflow
-2. 
+1. Auto Approve/Reject BPM Workflow.
+2. Custom Encryption Using JS.
+3. Bulk Reset Passwords.
+4. OIC Monitor Report.
+5. LOP Calculation and Details.
 
 ## Conversions
 
-1. Create Emplloyees in system
-2. 
+1. Create Employees in System.
+2. Create Value Set and Values.
 
 ## Enhancements 
 
-1. Approval Rules - Stop Person From Resigning
-2. 
+1. Approval Rules - Stop Person From Resigning.
+2. Add 3rd Party Application.
+3. Get Reports List in Custom Folder.
 
 ## Forms
 
